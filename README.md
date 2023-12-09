@@ -2,7 +2,7 @@
 Project Name: task1 (User Registration and Authentication)
 
 # Project Description
-This project provides information on the usage and implementation details of the User Registration and Authentication API. This API allows users to register, log in, by using secure JSON Web Token (JWT) mechanism.
+This project provides information on the usage and implementation details of the User Registration and Authentication API. This API allows users to register, and log in, by using a secure JSON Web Token (JWT) mechanism.
 
 # Table of Contents 
 1. Error Handling:
@@ -21,7 +21,7 @@ Bcrypt.js library is employed for password hashing.
 JSON Web Tokens (JWT) are generated and verified for user authentication.
 
 - Conclusion:
-This documentation provides overview of the user authentication API, including registration, login.
+This documentation provides an overview of the user authentication API, including registration, and login.
 
 
 
@@ -33,5 +33,5 @@ This documentation provides overview of the user authentication API, including r
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/mohdfurkan01/-User-Registration-and-Authentication_API
+cd task1
